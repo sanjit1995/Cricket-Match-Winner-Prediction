@@ -23,10 +23,10 @@ export const PredArea = (props) => (
             />
             <div className={'match-pred'}>
                 <div className={'team-pred'}>
-                    <div className={'pred-team-name'}>
+                    <div className={'pred-team-name'} >
                         {row.batting_team}
                     </div>
-                    <div className={'pred-team-prob'}>
+                    <div className={'pred-team-prob'} id={'batting-team'}>
                         {row.win}%
                     </div>
                 </div>
@@ -34,7 +34,7 @@ export const PredArea = (props) => (
                     <div className={'pred-team-name'}>
                         {row.bowling_team}
                     </div>
-                    <div className={'pred-team-prob'}>
+                    <div className={'pred-team-prob'} id={'bowling-team'}>
                         {row.loss}%
                     </div>
                 </div>
