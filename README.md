@@ -2,4 +2,4 @@
 
 Some Example Screenshots
 
-<img src="images/Ind_Eng_2nd_ODI_2021_1stInnings_45thOver.JPG.jpg" alt="a" width="200"/>
+<img src="images/Ind_Eng_2nd_ODI_2021_1stInnings_45thOver.JPG" alt="a" width="200"/>
