@@ -4,6 +4,8 @@ Visit page : https://cricket-predictor-frontend.web.app/
 
 Backend : https://github.com/sanjit1995/CricketMatchPredictor_Backend
 
+Model Training : https://github.com/sanjit1995/CricketMatchPredictor
+
 Some Example Screenshots
 
 <img src="images/Ind_Eng_2nd_ODI_2021_1stInnings_45thOver.JPG" alt="Image-1"/>
